@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1094942@0_07002_220919_P1_T3__0931.jpg",
+        "DATE": "2022-10-28 19:48:51",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "김동연",
+        "FOCUS_DISTANCE": "4.5",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "10000",
+        "PLACE": "성남시재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "95",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "657.8 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "파손",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    940.992,
+                    577.044,
+                    532.0319999999999,
+                    175.93200000000002
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    59.903999999999996,
+                    497.016,
+                    557.1840000000001,
+                    282.96
+                ]
+            ]
+        }
+    ]
+}

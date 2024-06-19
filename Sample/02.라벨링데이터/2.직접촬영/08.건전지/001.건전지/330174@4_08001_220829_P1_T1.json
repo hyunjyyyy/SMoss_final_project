@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "330174@4_08001_220829_P1_T1.jpg",
+        "DATE": "2022-08-29 10:23:41",
+        "RESOLUTION": "4624 x 2600",
+        "IMAGE_PHOTOGRAPHER": "천길영",
+        "FOCUS_DISTANCE": "4.7",
+        "EXPOSURE_TIME": "0.02000",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "4",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "비",
+        "IMAGE_HEIGHT": 2600,
+        "IMAGE_WIDTH": 4624,
+        "IMAGE_SIZE": "2.8 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "건전지",
+            "DETAILS": "건전지",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "원통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1768.5588570334692,
+                    599.6948527191496,
+                    580.5421313939394,
+                    1673.7662681212116
+                ]
+            ]
+        }
+    ]
+}

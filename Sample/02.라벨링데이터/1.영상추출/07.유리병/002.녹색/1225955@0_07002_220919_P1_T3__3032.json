@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1225955@0_07002_220919_P1_T3__3032.jpg",
+        "DATE": "2022-10-27 15:41:46",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "권혁준",
+        "FOCUS_DISTANCE": "10.0",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "성남시재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "95",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "600.1 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "파손",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    672,
+                    265.032,
+                    364.0319999999999,
+                    420.984
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    901.056,
+                    416.988,
+                    404.9280000000001,
+                    663.012
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "496578@5_07003_220831_P1_T1.jpg",
+        "DATE": "2022-08-31 13:32:41",
+        "RESOLUTION": "4624 x 2604",
+        "IMAGE_PHOTOGRAPHER": "직원1",
+        "FOCUS_DISTANCE": "5.23",
+        "EXPOSURE_TIME": "0.01667",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "성남시재활용센터",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "흐림",
+        "IMAGE_HEIGHT": 2604,
+        "IMAGE_WIDTH": 4624,
+        "IMAGE_SIZE": "3.8 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "투명",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    781.1609696854806,
+                    313.0689804416404,
+                    2998.9391767489437,
+                    2077.2339945680314
+                ]
+            ]
+        }
+    ]
+}

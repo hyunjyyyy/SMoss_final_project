@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1238196@0_03002_221026_P1_T3__0398.jpg",
+        "DATE": "2022-11-02 15:03:31",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "권현진",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "506.8 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "유색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "일반용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1062.9652996845425,
+                    817.0268138801262,
+                    461.6403785488958,
+                    262.33438485804413
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "페트병",
+            "DETAILS": "유색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    156.7192429022082,
+                    418.4148264984227,
+                    543.4069400630915,
+                    659.2429022082018
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "980021@0_03001_220913_P1_T3__0503.jpg",
+        "DATE": "2022-10-29 13:00:06",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "이경주",
+        "FOCUS_DISTANCE": "7.1",
+        "EXPOSURE_TIME": "1/400",
+        "SENSITIVITY_ISO": "5000",
+        "PLACE": "삼오자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "100",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "702.7 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    419.9066874027994,
+                    1.0497667185069985,
+                    327.14426259737803,
+                    506.1023007823416
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    6.792400553534469,
+                    545.4692006220839,
+                    363.3029071617824,
+                    534.5307993779161
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    636.8574905132192,
+                    654.7115869362362,
+                    504.44618977409834,
+                    230.99797503378306
+                ]
+            ]
+        },
+        {
+            "ID": "4",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(내부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "기타 형태",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    636.5516640746501,
+                    333.175129082426,
+                    458.83643693496526,
+                    389.0212818302092
+                ]
+            ]
+        },
+        {
+            "ID": "5",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    197.52410575427683,
+                    130.70351477449455,
+                    326.7190785253402,
+                    361.0080627060653
+                ]
+            ]
+        }
+    ]
+}

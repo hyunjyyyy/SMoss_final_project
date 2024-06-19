@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "80799@4_06001_220808_P1_T1.jpg",
+        "DATE": "2022-08-08 09:15:41",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "유은주",
+        "FOCUS_DISTANCE": "4.2",
+        "EXPOSURE_TIME": "0.01667",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "4",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "비",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "3.5 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    984.7555835962145,
+                    470.6092391617525,
+                    2371.3375588501117,
+                    1186.7939425401582
+                ]
+            ]
+        }
+    ]
+}

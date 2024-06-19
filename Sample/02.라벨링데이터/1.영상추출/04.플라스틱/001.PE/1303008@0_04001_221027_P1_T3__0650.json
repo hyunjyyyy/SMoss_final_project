@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1303008@0_04001_221027_P1_T3__0650.jpg",
+        "DATE": "2022-11-04 19:28:41",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "권혁준",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "100",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "515.4 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PE",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "일반용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    415.6466876971609,
+                    222.51577287066246,
+                    490.5993690851734,
+                    325.3627760252366
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "플라스틱",
+            "DETAILS": "PE",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "일반용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1347.4447949526814,
+                    1.0646687697160884,
+                    197.60252365930614,
+                    310.0315457413249
+                ]
+            ]
+        }
+    ]
+}

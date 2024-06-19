@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1267581@5_07002_220927_P1_T1.jpg",
+        "DATE": "2022-09-27 13:44:16",
+        "RESOLUTION": "4000 x 2252",
+        "IMAGE_PHOTOGRAPHER": "이연주",
+        "FOCUS_DISTANCE": "7",
+        "EXPOSURE_TIME": "0.01667",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "성남시재활용센터",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2252,
+        "IMAGE_WIDTH": 4000,
+        "IMAGE_SIZE": "3.0 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    362.30914826498423,
+                    769.4629337539432,
+                    3264.334384858044,
+                    813.4195583596215
+                ]
+            ]
+        }
+    ]
+}

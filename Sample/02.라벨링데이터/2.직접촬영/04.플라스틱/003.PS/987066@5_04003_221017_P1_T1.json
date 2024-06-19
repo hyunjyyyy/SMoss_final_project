@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "987066@5_04003_221017_P1_T1.jpg",
+        "DATE": "2022-10-11 13:34:51",
+        "RESOLUTION": "2560 x 1440",
+        "IMAGE_PHOTOGRAPHER": "김태연",
+        "FOCUS_DISTANCE": "4.3",
+        "EXPOSURE_TIME": "0.00312",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1440,
+        "IMAGE_WIDTH": 2560,
+        "IMAGE_SIZE": "1.2 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    753.170731707317,
+                    244.5121951219512,
+                    1112.1951219512198,
+                    979.5121951219512
+                ]
+            ]
+        }
+    ]
+}

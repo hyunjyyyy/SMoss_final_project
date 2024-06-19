@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1104374@0_05001_221006_P1_T3__0139.jpg",
+        "DATE": "2022-11-03 16:31:39",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "김보배",
+        "FOCUS_DISTANCE": "8.0",
+        "EXPOSURE_TIME": "1/160",
+        "SENSITIVITY_ISO": "5000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "115",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "560.8 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "스티로폼",
+            "DETAILS": "스티로폼",
+            "DAMAGE": "파손",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    581.8644794952681,
+                    0,
+                    621.8619558359621,
+                    407.55350157728714
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "스티로폼",
+            "DETAILS": "스티로폼",
+            "DAMAGE": "파손",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    680.4733173501577,
+                    817.2306851735017,
+                    315.11415520504727,
+                    262.350738170347
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "547951@5_05001_220919_P1_T1.jpg",
+        "DATE": "2022-09-19 15:41:48",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "송명임",
+        "FOCUS_DISTANCE": "4.2",
+        "EXPOSURE_TIME": "0.00168",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "4.2 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "스티로폼",
+            "DETAILS": "스티로폼",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    716.1326851531034,
+                    527.6967452720355,
+                    3016.960013750569,
+                    1048.8451542451269
+                ]
+            ]
+        }
+    ]
+}

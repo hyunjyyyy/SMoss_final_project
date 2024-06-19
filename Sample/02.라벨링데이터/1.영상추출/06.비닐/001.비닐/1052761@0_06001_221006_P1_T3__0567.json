@@ -1,0 +1,79 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1052761@0_06001_221006_P1_T3__0567.jpg",
+        "DATE": "2022-10-28 17:25:04",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "강윤정",
+        "FOCUS_DISTANCE": "11.0",
+        "EXPOSURE_TIME": "1/160",
+        "SENSITIVITY_ISO": "5000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "115",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "628.1 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    119.0825316455695,
+                    368.66049937574167,
+                    1108.2531645569625,
+                    633.45417721519
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1042.1546126582275,
+                    186.19959405928594,
+                    398.9898045569623,
+                    429.45160101265867
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1261.0316962025317,
+                    585.2693095023241,
+                    480.6318987341774,
+                    493.6976202531649
+                ]
+            ]
+        }
+    ]
+}

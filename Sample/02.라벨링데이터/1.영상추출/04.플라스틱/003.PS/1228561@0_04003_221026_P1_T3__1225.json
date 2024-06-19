@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1228561@0_04003_221026_P1_T3__1225.jpg",
+        "DATE": "2022-10-28 23:02:56",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "조신주",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/200",
+        "SENSITIVITY_ISO": "2000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "676.9 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "음료용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    961.0875000000001,
+                    146.0553525,
+                    174.58397999999988,
+                    144.60245999999998
+                ]
+            ]
+        }
+    ]
+}

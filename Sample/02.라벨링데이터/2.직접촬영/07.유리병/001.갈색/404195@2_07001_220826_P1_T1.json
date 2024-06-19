@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "404195@2_07001_220826_P1_T1.jpg",
+        "DATE": "2022-08-25 10:28:05",
+        "RESOLUTION": "2560 x 1440",
+        "IMAGE_PHOTOGRAPHER": "김태연",
+        "FOCUS_DISTANCE": "4.3",
+        "EXPOSURE_TIME": "0.00855",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "2",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1440,
+        "IMAGE_WIDTH": 2560,
+        "IMAGE_SIZE": "1.6 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "갈색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    420.5940594059406,
+                    301.63366336633663,
+                    1696.6336633663364,
+                    605.9405940594061
+                ]
+            ]
+        }
+    ]
+}

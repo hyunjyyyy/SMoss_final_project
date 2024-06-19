@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "484723@1_04002_220830_P1_T1.jpg",
+        "DATE": "2022-08-27 18:16:46",
+        "RESOLUTION": "2560 x 1440",
+        "IMAGE_PHOTOGRAPHER": "이미지 업로드",
+        "FOCUS_DISTANCE": "4.3",
+        "EXPOSURE_TIME": "0.01667",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "1",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "비",
+        "IMAGE_HEIGHT": 1440,
+        "IMAGE_WIDTH": 2560,
+        "IMAGE_SIZE": "1.3 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PP",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "원형용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1131.2567318611984,
+                    418.1855394321765,
+                    400.89425564668795,
+                    464.8259674447952
+                ]
+            ]
+        }
+    ]
+}

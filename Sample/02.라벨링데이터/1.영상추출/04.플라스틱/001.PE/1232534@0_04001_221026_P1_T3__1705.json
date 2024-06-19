@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1232534@0_04001_221026_P1_T3__1705.jpg",
+        "DATE": "2022-11-02 16:30:05",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "김동연",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "482.6 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PE",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "스프레이용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    337.21518987341767,
+                    4.613917097260655,
+                    658.0253164556963,
+                    391.89873417721526
+                ]
+            ]
+        }
+    ]
+}

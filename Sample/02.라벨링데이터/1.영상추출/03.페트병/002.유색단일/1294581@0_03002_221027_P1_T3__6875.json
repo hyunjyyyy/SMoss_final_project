@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1294581@0_03002_221027_P1_T3__6875.jpg",
+        "DATE": "2022-11-04 19:56:45",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "김동연",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "100",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "528.8 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "유색단일",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "기타 형태",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1294.785213270142,
+                    342.2303317535545,
+                    299.62919431279647,
+                    651.6716587677727
+                ]
+            ]
+        }
+    ]
+}

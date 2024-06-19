@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "416785@2_07003_220901_P1_T1.jpg",
+        "DATE": "2022-09-01 11:54:47",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "김복선",
+        "FOCUS_DISTANCE": "5.4",
+        "EXPOSURE_TIME": "0.00833",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "2",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "2.6 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "투명",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    497.2429022082019,
+                    542.4061514195583,
+                    3040.6940063091483,
+                    1076.7634069400629
+                ]
+            ]
+        }
+    ]
+}

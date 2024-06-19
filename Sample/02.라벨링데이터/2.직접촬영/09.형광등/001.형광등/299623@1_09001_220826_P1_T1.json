@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "299623@1_09001_220826_P1_T1.jpg",
+        "DATE": "2022-08-26 11:28:40",
+        "RESOLUTION": "4032 x 3024",
+        "IMAGE_PHOTOGRAPHER": "김담영",
+        "FOCUS_DISTANCE": "3.99",
+        "EXPOSURE_TIME": "0.00223",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "1",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 3024,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "8.9 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "형광등",
+            "DETAILS": "형광등",
+            "DAMAGE": "파손",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "전구형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1105.9973637725827,
+                    1230.1359284843547,
+                    1813.5546724854164,
+                    682.3824939065858
+                ]
+            ]
+        }
+    ]
+}

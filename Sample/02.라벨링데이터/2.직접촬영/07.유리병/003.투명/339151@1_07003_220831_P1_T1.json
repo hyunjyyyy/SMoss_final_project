@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "339151@1_07003_220831_P1_T1.jpg",
+        "DATE": "2022-08-31 11:21:10",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "김담영",
+        "FOCUS_DISTANCE": "4.2",
+        "EXPOSURE_TIME": "0.00268",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "1",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "흐림",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "6.6 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "투명",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1824.04915018522,
+                    731.1805593317154,
+                    341.9945183962784,
+                    866.8617004093562
+                ]
+            ]
+        }
+    ]
+}

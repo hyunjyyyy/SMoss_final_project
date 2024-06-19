@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "894667@0_07003_220822_P1_T3__1035.jpg",
+        "DATE": "2022-10-07 17:46:22",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "이경주",
+        "FOCUS_DISTANCE": "4.0",
+        "EXPOSURE_TIME": "1/500",
+        "SENSITIVITY_ISO": "10000",
+        "PLACE": "백광자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "512.1 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "투명",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    183.0071599045346,
+                    666.3067172000856,
+                    605.6042004773269,
+                    413.6932827999144
+                ]
+            ]
+        }
+    ]
+}

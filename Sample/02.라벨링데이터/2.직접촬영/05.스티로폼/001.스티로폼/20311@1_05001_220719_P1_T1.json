@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "20311@1_05001_220719_P1_T1.jpg",
+        "DATE": "2022-07-19 14:46:23",
+        "RESOLUTION": "4000 x 2250",
+        "IMAGE_PHOTOGRAPHER": "전성애",
+        "FOCUS_DISTANCE": null,
+        "EXPOSURE_TIME": null,
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "1",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2250,
+        "IMAGE_WIDTH": 4000,
+        "IMAGE_SIZE": "4.9 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "스티로폼",
+            "DETAILS": "스티로폼",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "박스형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1357.132406748377,
+                    435.3125943974763,
+                    1531.3229096129267,
+                    1199.3033205898093
+                ]
+            ]
+        }
+    ]
+}

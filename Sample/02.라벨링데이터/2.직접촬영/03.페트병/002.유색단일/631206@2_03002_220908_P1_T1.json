@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "631206@2_03002_220908_P1_T1.jpg",
+        "DATE": "2022-09-08 12:24:00",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "최정원",
+        "FOCUS_DISTANCE": "5.4",
+        "EXPOSURE_TIME": "0.00126",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "2",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "3.1 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "유색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    429.41874702754956,
+                    546.4117630784682,
+                    3103.6281368748882,
+                    961.2963696044582
+                ]
+            ]
+        }
+    ]
+}

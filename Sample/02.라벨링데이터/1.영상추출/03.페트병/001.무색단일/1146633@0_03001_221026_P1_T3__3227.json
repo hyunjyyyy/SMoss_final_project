@@ -1,0 +1,79 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1146633@0_03001_221026_P1_T3__3227.jpg",
+        "DATE": "2022-11-08 14:16:46",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "이경주",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/200",
+        "SENSITIVITY_ISO": "2000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "709.1 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    682.231898734177,
+                    213.66910697067843,
+                    177.32050632911398,
+                    470.05986349367095
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1493.4507584810126,
+                    217.53093178080496,
+                    235.33230987341813,
+                    345.23369316455705
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    575.9221306329113,
+                    707.6287707681469,
+                    197.70303189873437,
+                    372.37122923185314
+                ]
+            ]
+        }
+    ]
+}

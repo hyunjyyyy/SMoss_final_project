@@ -1,0 +1,79 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "959399@0_04003_220906_P1_T3__1833.jpg",
+        "DATE": "2022-10-21 15:51:56",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "강윤정",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/400",
+        "SENSITIVITY_ISO": "12800",
+        "PLACE": "삼오자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "100",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "645.9 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "음료용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    0,
+                    316.13302484536086,
+                    260.8416593814435,
+                    309.74880989690735
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1140.9283298969078,
+                    415.6601242268041,
+                    294.05242326423377,
+                    342.54263284118986
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1570.6302680412377,
+                    631.6910025773193,
+                    251.6878611729785,
+                    375.230951399662
+                ]
+            ]
+        }
+    ]
+}

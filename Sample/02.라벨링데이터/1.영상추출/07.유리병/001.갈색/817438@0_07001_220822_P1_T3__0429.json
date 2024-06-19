@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "817438@0_07001_220822_P1_T3__0429.jpg",
+        "DATE": "2022-09-20 16:56:07",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "홍왕기",
+        "FOCUS_DISTANCE": "4.0",
+        "EXPOSURE_TIME": "1/400",
+        "SENSITIVITY_ISO": "10000",
+        "PLACE": "백광자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "525.2 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "갈색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    569.6780487804879,
+                    590.9323170731707,
+                    227.59024390243894,
+                    311.8829268292684
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "유리병",
+            "DETAILS": "갈색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    765.6585365853659,
+                    247.08841463414635,
+                    279.219512195122,
+                    416.19512195121945
+                ]
+            ]
+        }
+    ]
+}

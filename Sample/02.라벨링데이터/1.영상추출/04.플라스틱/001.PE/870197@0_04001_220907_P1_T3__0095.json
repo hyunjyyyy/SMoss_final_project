@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "870197@0_04001_220907_P1_T3__0095.jpg",
+        "DATE": "2022-10-06 15:06:57",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "홍왕기",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "용인시재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "120",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "593.0 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "2",
+            "CLASS": "플라스틱",
+            "DETAILS": "PE",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "기타 형태",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    494.0469755942946,
+                    505.7508893819331,
+                    254.73129889065,
+                    238.35993660855797
+                ]
+            ]
+        }
+    ]
+}

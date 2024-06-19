@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "533450@4_05001_220916_P1_T1.jpg",
+        "DATE": "2022-09-16 09:04:59",
+        "RESOLUTION": "4032 x 3024",
+        "IMAGE_PHOTOGRAPHER": "박은혜",
+        "FOCUS_DISTANCE": "5.7",
+        "EXPOSURE_TIME": "0.00029",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "4",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "2.1 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "스티로폼",
+            "DETAILS": "스티로폼",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    528.6126526082131,
+                    364.05049944506106,
+                    3169.1587125416204,
+                    1525.4250832408434
+                ]
+            ]
+        }
+    ]
+}

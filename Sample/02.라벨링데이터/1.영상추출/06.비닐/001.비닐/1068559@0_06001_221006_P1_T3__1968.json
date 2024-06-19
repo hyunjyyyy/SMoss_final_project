@@ -1,0 +1,98 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1068559@0_06001_221006_P1_T3__1968.jpg",
+        "DATE": "2022-10-28 19:06:09",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "강윤정",
+        "FOCUS_DISTANCE": "8.0",
+        "EXPOSURE_TIME": "1/160",
+        "SENSITIVITY_ISO": "5000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "115",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "645.2 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1066.5629860031104,
+                    0,
+                    629.8600311041992,
+                    1025.6220839813375
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    593.7756163473191,
+                    70.23046894123246,
+                    309.43566048328125,
+                    476.3286091342115
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    239.9406740902021,
+                    510.0254680176138,
+                    642.1739919524996,
+                    499.13281030180497
+                ]
+            ]
+        },
+        {
+            "ID": "4",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    640.5806183514774,
+                    686.1085138413684,
+                    331.694577780406,
+                    252.7618686606536
+                ]
+            ]
+        }
+    ]
+}

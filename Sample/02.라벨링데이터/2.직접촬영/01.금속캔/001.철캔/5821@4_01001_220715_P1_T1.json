@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "5821@4_01001_220715_P1_T1.jpg",
+        "DATE": "2022-07-15 08:31:18",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "이승종",
+        "FOCUS_DISTANCE": null,
+        "EXPOSURE_TIME": null,
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "4",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "3.1 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "금속캔",
+            "DETAILS": "철캔",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "중간 원통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1220.6519362412312,
+                    252.00713867507895,
+                    1397.7139172229897,
+                    1828.6324512302838
+                ]
+            ]
+        }
+    ]
+}

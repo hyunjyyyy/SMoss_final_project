@@ -1,0 +1,98 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1073044@0_06001_221006_P1_T3__0925.jpg",
+        "DATE": "2022-11-02 10:32:22",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "이경주",
+        "FOCUS_DISTANCE": "11.0",
+        "EXPOSURE_TIME": "1/160",
+        "SENSITIVITY_ISO": "5000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "115",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "639.2 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1267,
+                    55,
+                    217,
+                    357
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    725,
+                    177,
+                    199,
+                    222
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "기타 형태",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    177,
+                    0,
+                    1233,
+                    328
+                ]
+            ]
+        },
+        {
+            "ID": "4",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1147,
+                    323,
+                    244,
+                    751
+                ]
+            ]
+        }
+    ]
+}

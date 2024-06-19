@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "97033@5_06001_220725_P1_T1.jpg",
+        "DATE": "2022-07-25 13:43:53",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "김영범",
+        "FOCUS_DISTANCE": "4.32",
+        "EXPOSURE_TIME": "0.02500",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "2.6 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "찢어짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    344.7745222929934,
+                    469.1292993630572,
+                    2700.4127388535035,
+                    1394.5070063694268
+                ]
+            ]
+        }
+    ]
+}

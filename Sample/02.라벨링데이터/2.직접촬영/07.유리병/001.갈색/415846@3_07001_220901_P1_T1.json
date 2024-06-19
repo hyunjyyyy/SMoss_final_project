@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "415846@3_07001_220901_P1_T1.jpg",
+        "DATE": "2022-09-01 10:20:31",
+        "RESOLUTION": "4000 x 2250",
+        "IMAGE_PHOTOGRAPHER": "전성애",
+        "FOCUS_DISTANCE": "4.6",
+        "EXPOSURE_TIME": "0.01667",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "3",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2250,
+        "IMAGE_WIDTH": 4000,
+        "IMAGE_SIZE": "4.2 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "갈색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1514.137507232379,
+                    354.65990263840246,
+                    681.8181818181815,
+                    1340.1253918495297
+                ]
+            ]
+        }
+    ]
+}

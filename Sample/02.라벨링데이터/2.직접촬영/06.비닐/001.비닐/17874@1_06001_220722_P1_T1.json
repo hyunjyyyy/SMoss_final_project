@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "17874@1_06001_220722_P1_T1.jpg",
+        "DATE": "2022-07-22 10:16:43",
+        "RESOLUTION": "4032 x 2268",
+        "IMAGE_PHOTOGRAPHER": "박성빈",
+        "FOCUS_DISTANCE": null,
+        "EXPOSURE_TIME": null,
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "1",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "흐림",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "5.0 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "비닐",
+            "DETAILS": "비닐",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "봉지형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1467.0727379946861,
+                    628.5313390805516,
+                    1294.8290920246468,
+                    656.0488660711319
+                ]
+            ]
+        }
+    ]
+}

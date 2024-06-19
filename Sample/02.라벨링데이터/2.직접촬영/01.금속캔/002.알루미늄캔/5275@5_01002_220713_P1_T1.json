@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "5275@5_01002_220713_P1_T1.jpg",
+        "DATE": "2022-07-13 09:48:26",
+        "RESOLUTION": "4000 x 2252",
+        "IMAGE_PHOTOGRAPHER": "박하림",
+        "FOCUS_DISTANCE": null,
+        "EXPOSURE_TIME": null,
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2252,
+        "IMAGE_WIDTH": 4000,
+        "IMAGE_SIZE": "3.0 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "금속캔",
+            "DETAILS": "알루미늄캔",
+            "DAMAGE": "완전압착",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "홀쭉한 원통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1425.3668138801263,
+                    487.8954447949523,
+                    1187.5783470031552,
+                    1403.5714321766566
+                ]
+            ]
+        }
+    ]
+}

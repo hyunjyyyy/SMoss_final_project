@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "725951@3_03002_220930_P1_T1.jpg",
+        "DATE": "2022-09-30 16:38:20",
+        "RESOLUTION": "4032 x 3024",
+        "IMAGE_PHOTOGRAPHER": "박은혜",
+        "FOCUS_DISTANCE": "5.7",
+        "EXPOSURE_TIME": "0.00137",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "3",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2268,
+        "IMAGE_WIDTH": 4032,
+        "IMAGE_SIZE": "3.4 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "유색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "일반용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1527.2584484972786,
+                    184.6987020280811,
+                    1026.7187918094933,
+                    1912.5282002277866
+                ]
+            ]
+        }
+    ]
+}

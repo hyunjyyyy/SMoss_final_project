@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "61529@2_02001_220803_P1_T1.jpg",
+        "DATE": "2022-08-03 10:05:35",
+        "RESOLUTION": "2560 x 1440",
+        "IMAGE_PHOTOGRAPHER": "송명임",
+        "FOCUS_DISTANCE": "4.2",
+        "EXPOSURE_TIME": "0.00833",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "2",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1440,
+        "IMAGE_WIDTH": 2560,
+        "IMAGE_SIZE": "1.4 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "종이",
+            "DETAILS": "종이",
+            "DAMAGE": "손상",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "박스형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    361.34723856153045,
+                    432.09836983552725,
+                    1840.850563636272,
+                    556.7459342886143
+                ]
+            ]
+        }
+    ]
+}

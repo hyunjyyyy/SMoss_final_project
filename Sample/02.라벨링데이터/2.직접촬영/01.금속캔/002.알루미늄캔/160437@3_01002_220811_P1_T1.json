@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "160437@3_01002_220811_P1_T1.jpg",
+        "DATE": "2022-08-11 09:32:31",
+        "RESOLUTION": "4000 x 2250",
+        "IMAGE_PHOTOGRAPHER": "황서현",
+        "FOCUS_DISTANCE": "4.6",
+        "EXPOSURE_TIME": "0.01667",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "3",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "비",
+        "IMAGE_HEIGHT": 2250,
+        "IMAGE_WIDTH": 4000,
+        "IMAGE_SIZE": "3.9 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "금속캔",
+            "DETAILS": "알루미늄캔",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "뚱뚱한 원통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1408.9116719242902,
+                    318.06979495268143,
+                    936.9085173501576,
+                    1309.5425867507888
+                ]
+            ]
+        }
+    ]
+}

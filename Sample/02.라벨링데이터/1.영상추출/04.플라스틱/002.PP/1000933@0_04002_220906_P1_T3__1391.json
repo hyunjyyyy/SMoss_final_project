@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1000933@0_04002_220906_P1_T3__1391.jpg",
+        "DATE": "2022-10-21 15:30:52",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "이지은",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/400",
+        "SENSITIVITY_ISO": "12800",
+        "PLACE": "삼오자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "100",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "645.3 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PP",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "원형용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    322.6329113924051,
+                    0.3910341386783051,
+                    684.4556962025317,
+                    618.446680426937
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "플라스틱",
+            "DETAILS": "PP",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "사각용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    1081.3897151260383,
+                    287.14702089472905,
+                    557.1702489283091,
+                    557.5627925525897
+                ]
+            ]
+        }
+    ]
+}

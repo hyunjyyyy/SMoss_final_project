@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "5891@2_03001_220713_P1_T1.jpg",
+        "DATE": "2022-07-14 00:14:11",
+        "RESOLUTION": "4000 x 2252",
+        "IMAGE_PHOTOGRAPHER": "박하림",
+        "FOCUS_DISTANCE": null,
+        "EXPOSURE_TIME": null,
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "2",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 2252,
+        "IMAGE_WIDTH": 4000,
+        "IMAGE_SIZE": "2.8 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "무색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "투명",
+            "SHAPE": "물통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    458.2145110410095,
+                    712.6301261829652,
+                    2763.495268138802,
+                    1044.302839116719
+                ]
+            ]
+        }
+    ]
+}

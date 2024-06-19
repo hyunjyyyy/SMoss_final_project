@@ -1,0 +1,60 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "812448@0_04003_220907_P1_T3__1095.jpg",
+        "DATE": "2022-10-07 09:59:32",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "김지영",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "8000",
+        "PLACE": "용인시재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "120",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "587.5 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(내부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "음료용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    544.6874734177214,
+                    720.310686717514,
+                    519.3631594936709,
+                    356.7204455696203
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    986.5822784810127,
+                    45.69948671751387,
+                    423.7974683544305,
+                    329.8511392405063
+                ]
+            ]
+        }
+    ]
+}

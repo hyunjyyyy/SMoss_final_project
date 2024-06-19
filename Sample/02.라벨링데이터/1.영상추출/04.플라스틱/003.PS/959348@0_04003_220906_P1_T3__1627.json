@@ -1,0 +1,79 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "959348@0_04003_220906_P1_T3__1627.jpg",
+        "DATE": "2022-10-21 15:51:22",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "강윤정",
+        "FOCUS_DISTANCE": "5.6",
+        "EXPOSURE_TIME": "1/400",
+        "SENSITIVITY_ISO": "12800",
+        "PLACE": "삼오자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "100",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "688.0 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "오염없음",
+            "COVER": "겹침",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "음료용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    91.6466876971609,
+                    0,
+                    197.602523659306,
+                    109.87381703470035
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "찌그러짐",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "식품용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    775.5558359621452,
+                    554.4113564668767,
+                    327.0662460567821,
+                    331.42712933753955
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "플라스틱",
+            "DETAILS": "PS",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "음료용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    668.1554574132493,
+                    224.86485804416398,
+                    309.5168608650089,
+                    298.278811796593
+                ]
+            ]
+        }
+    ]
+}

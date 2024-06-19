@@ -1,0 +1,98 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "561433@0_07002_220822_P1_T3__0311.jpg",
+        "DATE": "2022-09-19 11:50:08",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "조성열",
+        "FOCUS_DISTANCE": "5.0",
+        "EXPOSURE_TIME": "1/320",
+        "SENSITIVITY_ISO": "12800",
+        "PLACE": "백광자원",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "90",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "523.6 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    757.8124921135648,
+                    86.89741324921133,
+                    377.6524921135647,
+                    393.35167192429026
+                ]
+            ]
+        },
+        {
+            "ID": "2",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    515.3444485733751,
+                    309.90072142334395,
+                    276.68142061652,
+                    435.86003002260634
+                ]
+            ]
+        },
+        {
+            "ID": "3",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    316.477476340694,
+                    608.8914681890844,
+                    475.0204625727706,
+                    318.2299282405081
+                ]
+            ]
+        },
+        {
+            "ID": "4",
+            "CLASS": "유리병",
+            "DETAILS": "녹색",
+            "DAMAGE": "파손",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "유리병형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    828.4451735015776,
+                    501.0941072555203,
+                    282.5852365930599,
+                    282.249993690852
+                ]
+            ]
+        }
+    ]
+}

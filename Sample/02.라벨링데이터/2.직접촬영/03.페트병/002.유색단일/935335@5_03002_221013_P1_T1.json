@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "935335@5_03002_221013_P1_T1.jpg",
+        "DATE": "2022-10-08 11:06:36",
+        "RESOLUTION": "2560 x 1440",
+        "IMAGE_PHOTOGRAPHER": "김태연",
+        "FOCUS_DISTANCE": "4.3",
+        "EXPOSURE_TIME": "0.00556",
+        "SENSITIVITY_ISO": null,
+        "PLACE": "주택가분리수거장",
+        "REGION_NAME": null,
+        "Direction": "5",
+        "HEIGHT": null,
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1440,
+        "IMAGE_WIDTH": 2560,
+        "IMAGE_SIZE": "1.1 MB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "페트병",
+            "DETAILS": "유색단일",
+            "DAMAGE": "원형",
+            "DIRTINESS": "이물질(외부)",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "일반용기형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    490.64627151051616,
+                    203.57169005063938,
+                    1511.0363288718927,
+                    929.5296367112811
+                ]
+            ]
+        }
+    ]
+}

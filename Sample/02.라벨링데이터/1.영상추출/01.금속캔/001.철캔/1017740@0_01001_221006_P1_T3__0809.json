@@ -1,0 +1,41 @@
+{
+    "IMAGE_INFO": {
+        "FILE_NAME": "1017740@0_01001_221006_P1_T3__0809.jpg",
+        "DATE": "2022-10-28 13:32:43",
+        "RESOLUTION": "1920 x 1080",
+        "IMAGE_PHOTOGRAPHER": "김건무",
+        "FOCUS_DISTANCE": "11.0",
+        "EXPOSURE_TIME": "1/160",
+        "SENSITIVITY_ISO": "5000",
+        "PLACE": "강북재활용센터",
+        "REGION_NAME": null,
+        "Direction": "0",
+        "HEIGHT": "115",
+        "DAY/NIGHT": "주간",
+        "WEATHER": "맑음",
+        "IMAGE_HEIGHT": 1080,
+        "IMAGE_WIDTH": 1920,
+        "IMAGE_SIZE": "541.0 KB"
+    },
+    "ANNOTATION_INFO": [
+        {
+            "ID": "1",
+            "CLASS": "금속캔",
+            "DETAILS": "철캔",
+            "DAMAGE": "원형",
+            "DIRTINESS": "오염없음",
+            "COVER": "없음",
+            "TRANSPARENCY": "불투명",
+            "SHAPE": "높은 원통형",
+            "SHAPE_TYPE": "BOX",
+            "POINTS": [
+                [
+                    961.7536366094007,
+                    266.97697956340687,
+                    158.82800491651074,
+                    404.7179135556247
+                ]
+            ]
+        }
+    ]
+}
