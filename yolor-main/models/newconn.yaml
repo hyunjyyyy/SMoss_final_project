@@ -1,0 +1,13 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /data/_newconn_yolo/train2017.txt  # 3,512 images
+val: /data/_newconn_yolo/val2017.txt  # 439 images
+test: /data/_newconn_yolo/test2017.txt  # 439 images
+
+
+# number of classes
+nc: 15
+
+# class names
+
+names: [ 'can_steel', 'can_aluminium', 'paper', 'PET_transparent' ,'PET_color' ,'plastic_PE', 'plastic_PP', 'plastic_PS',
+         'styrofoam' ,'plastic_bag' ,'glass_brown' ,'glass_green' ,'glass_transparent' ,'battery' ,'light' ]
