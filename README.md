@@ -1,10 +1,10 @@
-<재활용 안내를 위한 Google Cloud Text-to-Speech 프로젝트>
+# <재활용 안내를 위한 Google Cloud Text-to-Speech 프로젝트>
 
 
 이 프로젝트는 Google Cloud Text-to-Speech API를 사용하여 감지된 쓰레기 분류에 따라 재활용 안내 음성을 생성합니다.
 
 
-사전 준비 사항
+# 사전 준비 사항
 Google Cloud 계정 (Text-to-Speech API 활성화 필요)
 Google Cloud 서비스 계정 키 파일 (JSON 형식)
 필요한 패키지가 설치된 Python 환경
@@ -12,21 +12,21 @@ Google Cloud 서비스 계정 키 파일 (JSON 형식)
 
 
 
-<설치 방법>
+# <설치 방법>
 
-1. 레포지토리 클론 (또는 단일 파일의 경우 스크립트 다운로드):
+# 1. 레포지토리 클론 (또는 단일 파일의 경우 스크립트 다운로드):
 git clone <repository-url>
 cd <repository-directory>
 
-2. 필요한 Python 패키지 설치: 
+# 2. 필요한 Python 패키지 설치: 
 pip install google-cloud-texttospeech
 
 
 
 
-<사용 방법>
+# <사용 방법>
 
-1. Google Cloud 서비스 계정 키 파일 업로드:
+# 1. Google Cloud 서비스 계정 키 파일 업로드:
 아래의 코드를 사용하여 키 파일을 업로드합니다.
 
 from google.colab import files
@@ -38,9 +38,9 @@ uploaded = files.upload()
 for filename in uploaded.keys():
     print(f'Uploaded file: {filename}')
 
-2. 환경 변수 설정:
+# 2. 환경 변수 설정:
 
-업로드한 키 파일의 이름을 환경 변수로 설정합니다.
+# 업로드한 키 파일의 이름을 환경 변수로 설정합니다.
 
 import os
 
@@ -48,14 +48,14 @@ import os
 key_file = list(uploaded.keys())[0]
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = f"/content/{key_file}"
 
-3. Google Cloud Text-to-Speech 클라이언트 생성:
+# 3. Google Cloud Text-to-Speech 클라이언트 생성:
 
 from google.cloud import texttospeech
 
 # 클라이언트 생성
 client = texttospeech.TextToSpeechClient()
 
-4. 텍스트 생성 함수 정의:
+# 4. 텍스트 생성 함수 정의:
 
 감지된 쓰레기 클래스 번호에 따라 안내 텍스트를 생성하는 함수를 정의합니다.
 
@@ -81,7 +81,7 @@ def generate_tts_text(class_number):
     else:
         return "알 수 없는 쓰레기입니다."
 
-5. 클래스 번호 설정 및 TTS 요청 생성:
+# 5. 클래스 번호 설정 및 TTS 요청 생성:
 
 # 클래스 번호 설정
 class_number = 1  # 예시로 클래스 번호를 1로 설정합니다. 실제 객체 인식 결과에 따라 이 값을 바꿔야 합니다.
@@ -100,7 +100,7 @@ audio_config = texttospeech.AudioConfig(audio_encoding=texttospeech.AudioEncodin
 # 요청 보내기 및 응답 받기
 response = client.synthesize_speech(input=synthesis_input, voice=voice, audio_config=audio_config)
 
-6. 응답 저장 및 오디오 파일 다운로드:
+# 6. 응답 저장 및 오디오 파일 다운로드:
 
 # 응답 저장
 output_path = "/content/output.mp3"
